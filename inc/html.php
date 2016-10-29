@@ -200,7 +200,7 @@ EOF;
 		$post['message'] .= '<br><span class="omittedposts">Post truncated.  Click Reply to view.</span><br>';
 	}
 	$return .= <<<EOF
-<div class="message">
+<div class="message" style="word-wrap:break-word;">
 ${post["message"]}
 </div>
 EOF;
