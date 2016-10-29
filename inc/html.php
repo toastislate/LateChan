@@ -39,7 +39,7 @@ function pageFooter() {
 
 	return <<<EOF
 		<div class="footer">
-			- <a href="http://www.2chan.net" target="_top">futaba</a> + <a href="http://www.1chan.net" target="_top">futallaby</a> + <a href="https://github.com/tslocum/TinyIB" target="_top">tinyib</a> -
+			- <a href="http://www.2chan.net" target="_top">futaba</a> + <a href="http://www.1chan.net" target="_top">futallaby</a> + <a href="https://github.com/tslocum/TinyIB" target="_top">tinyib</a>+ <a href="https://github.com/toastislate/latechan" target="_top">LateChan</a> -
 		</div>
 	</body>
 </html>
